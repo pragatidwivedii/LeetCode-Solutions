@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Math
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
