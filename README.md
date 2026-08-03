@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0771-jewels-and-stones](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -34,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
