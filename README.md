@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -57,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
