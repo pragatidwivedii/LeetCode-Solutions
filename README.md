@@ -54,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/pragatidwivedii/LeetCode-Solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
